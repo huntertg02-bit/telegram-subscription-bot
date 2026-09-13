@@ -1,0 +1,1 @@
+Apna actual UPI/Paytm QR image yahan `qr.png` naam se rakhein. Is text file ko delete kar sakte hain.
